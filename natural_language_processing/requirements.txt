@@ -1,0 +1,14 @@
+numpy
+pandas
+tqdm
+jupyterlab
+datasets
+ipywidgets
+matplotlib
+pyLDAvis
+nltk
+gensim
+bpemb
+wandb
+optuna
+plotly

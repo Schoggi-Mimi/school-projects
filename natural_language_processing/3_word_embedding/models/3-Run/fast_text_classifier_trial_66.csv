@@ -1,0 +1,2 @@
+Trial number,hidden_dim,num_layers,dataset,optimizer,lr,activation_function,word_embedding
+66,4319,6,without_stopwords,Adam,0.00016782024926650517,tanh,word2vec

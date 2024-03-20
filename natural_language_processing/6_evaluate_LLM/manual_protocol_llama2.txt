@@ -1,0 +1,1129 @@
+How does the Sun power the water cycle?
+(A) Energy from the Sun evaporates water.
+(B) Energy from the Sun condenses water.
+(C) Energy from the Sun precipitates water.
+(D) Energy from the Sun collects water.
+E2055
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+A homeowner wants to use a renewable source of energy to heat the home. Which of these would be the best to use?
+(A) coal
+(B) gas
+(C) oil
+(D) solar
+E1813
+	llama 70B response:	D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Which of the following is more likely to occur in a plant cell than in an animal cell?
+(A) synthesis of enzymes
+(B) formation of cellulose
+(C) breakdown of glucose
+(D) active transport of ions
+E100
+	llama 70B response:	B
+	bart response: 		C
+	gpt 3.5 respose: 	B
+	bing chat response: A
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+A student mixes a spoonful of sand into a beaker of water. Which two methods can be used to separate the sand from the water?
+(A) filtration and evaporation
+(B) settling and chromatography
+(C) chromatography and filtration
+(D) settling and magnetic attraction
+E1349
+	llama 70B response:	B
+	bart response: 		D
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A	
+	hugging chat: 		A
+	Solution: 			A
+
+A doorbell circuit converts electrical energy into mechanical energy. The mechanical energy is in the form of vibrations that ultimately produce
+(A) chemical energy.
+(B) thermal energy.
+(C) radiant energy.
+(D) sound energy.
+E56
+	llama 70B response:	D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+The empty spaces in a material are called pores. Porosity is the amount of empty space within a material. Permeability describes how well the pores in a material are connected. Which of these materials would make the most effective aquifer?
+(A) a material that has high porosity and high permeability
+(B) a material that has high porosity and low permeability
+(C) a material that has low porosity and high permeability
+(D) a material that has low porosity and low permeability
+E1743
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+A shift in climate changes a forested area with little annual snowfall to an area with snowfall most of the year. Natural selection would most likely favor a rabbit with which adaptation?
+(A) dark coat color
+(B) increased body fat
+(C) large ears to release body heat
+(D) more powerful legs for burrowing
+E1307
+	llama 70B response:	B
+	bart response: 		B
+	gpt 3.5 respose: 	C
+	bing chat response: B
+	perplexity ai: 		C
+	hugging chat: 		B
+	Solution: 			B
+
+Plant leaves have tiny pores. These pores help plants release water from their tissues into the
+(A) lithosphere.
+(B) biosphere.
+(C) hydrosphere.
+(D) atmosphere.
+E611
+	llama 70B response:	D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+What ALWAYS happens when the nucleotides in a strand of DNA is rearranged?
+(A) The information on the strand changes.
+(B) The mass of the strand changes.
+(C) The organism dies.
+(D) The organism thrives.
+E1058
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Which number is closest to the estimated number of stars in the Milky Way galaxy?
+(A) 200 thousand
+(B) 200 million
+(C) 200 billion
+(D) 200 trillion
+E1995
+	llama 70B response:	C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Animals get energy from eating food that comes from plants. Plants survive by taking in substances that are released by animals. What substance do animals release that plants take in?
+(A) carbon dioxide
+(B) oxygen
+(C) salt
+(D) sugar
+E464
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+A ball rolls across the floor and slows down to a stop. Which force caused the ball to slow down?
+(A) friction
+(B) gravity
+(C) magnetic
+(D) inertia
+E1490
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Ribosomes present in a particular cell are smaller than those found in plants. In which taxonomic group or groups could the cell be classified?
+(A) fungi only
+(B) archaea only
+(C) bacteria or archaea
+(D) bacteria or fungi
+E2288
+	llama 70B response:	C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+In New England, there are noticeable patterns of seasonal change. Which information could you collect to BEST illustrate this change?
+(A) air temperature
+(B) wind speed
+(C) amount of precipitation
+(D) number of cloudy days
+E1110
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Which is a force that keeps the planets in orbit around the Sun?
+(A) inertia
+(B) gravity
+(C) magnetism
+(D) solar energy
+E1993
+	llama 70B response:	B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+A large number of species on Earth became extinct during a short time period about 65 million years ago. Based on this pattern of extinction, which is the most likely cause?
+(A) gradual climate change
+(B) continued climate stability
+(C) sudden global climate change
+(D) gradual ecosystem succession
+E1014
+	llama 70B response:	C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Secondary pollutants are produced in the environment by chemical reactions involving primary or emitted chemicals. Which of the following is a secondary pollutant?
+(A) carbon monoxide (CO)
+(B) nitrogen oxide (NO)
+(C) methane (CH_{4})
+(D) ozone (O_{3})
+E695
+	llama 70B response:	D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+The charge of the nucleus of an atom is due to the presence of
+(A) positive protons.
+(B) negative neutrons.
+(C) negative protons and positive electrons.
+(D) positive protons and negative neutrons.
+E1748
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+How does the Sun most affect the water cycle?
+(A) The Sun causes the ocean water to evaporate.
+(B) The Sun creates water droplets in the clouds.
+(C) The Sun forces water to drain back into the ocean.
+(D) The Sun makes the clouds produce precipitation.
+E1414
+	llama 70B response:	A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: D
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Some individuals are unable to digest the lactose found in the milk of cows. The digestive systems of these individuals most likely lack which?
+(A) a lipid that coats lactose molecules
+(B) an ability to produce lactose internally
+(C) an enzyme that catalyzes lactose breakdown
+(D) a tolerance to lactose developed during childhood
+E2196
+	llama 70B response:	C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+A student plans to grow algal colonies in solutions with different concentrations of liquid fertilizer. Which is a clear and testable hypothesis to guide this investigation?
+(A) Algae like fertilizer.
+(B) Fertilizer is good for algae.
+(C) Fertilizer improves the genetic traits of algae.
+(D) Algal growth rate increases with fertilizer concentration.
+E2128
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+After which event will primary succession most likely occur?
+(A) thunderstorm
+(B) crop harvest
+(C) volcanic eruption
+(D) urban development
+E532
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which surgery is most like the way a transgenic organism is made?
+(A) Adelle receives an artificial hip to ease her arthritis.
+(B) Kwan receives a pacemaker to regulate his heartbeat.
+(C) Hector receives a replacement heart valve from a cow.
+(D) Denise receives a kidney donated by her identical twin.
+E1753
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		A
+	hugging chat: 		C
+	Solution: 			C
+
+The human body is made up of different levels of organization. A tissue is a group of cells that work together to perform a specific function. Which would be an example of a tissue in the human body?
+(A) stomach
+(B) platelets
+(C) muscle
+(D) hair
+E1283
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+A scientist found a fossil of an organism that had gills. When the organism was living, the area in which it lived was most likely covered by ___.
+(A) forest
+(B) grassland
+(C) bare rock
+(D) water
+E889
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+The bottom of the space shuttle is covered with ceramic tile. This material was chosen because it withstands
+(A) moisture.
+(B) vibration.
+(C) heat.
+(D) light.
+E211
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+A metal pan will heat up quickly when placed over a gas or electric burner. The metal pan is a good
+(A) resistor.
+(B) insulator.
+(C) conductor.
+(D) accelerator.
+E282
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which property would best help a student determine if two substances are made of two different elements?
+(A) mass
+(B) shape
+(C) density
+(D) volume
+E942
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	A
+	bing chat response: C
+	perplexity ai: 		A
+	hugging chat: 		C
+	Solution: 			C
+
+Which would most help pollinators find flowers that are pollinated at night?
+(A) shape
+(B) color
+(C) size
+(D) fragrance
+E237
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Using fossil fuels in the United States will most likely contribute to rising sea levels globally by
+(A) increasing oxygen levels
+(B) decreasing oxygen levels
+(C) increasing carbon dioxide levels
+(D) decreasing carbon dioxide levels
+E1754
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Hurricanes are driven by the energy they get from ocean water. Which property of water allows it to retain the energy needed to power a hurricane?
+(A) low vapor pressure
+(B) high specific heat
+(C) high surface tension
+(D) low freezing point
+E1907
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Modern submarines have advanced atmosphere-control systems that enable submarine crews to stay below the surface of the ocean for months at a time. Which of the following also benefits from this technology?
+(A) architectural design
+(B) pollution control
+(C) fire prevention
+(D) space exploration
+E471
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Where is water most likely to be brackish?
+(A) sea
+(B) lake
+(C) river
+(D) estuary
+E1836
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Copper, silver, and nickel are all classified as
+(A) noble gases.
+(B) transition metals.
+(C) halogens.
+(D) nonmetals.
+E1626
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+In the human body, the circulatory system works with the respiratory system by
+(A) producing red blood cells.
+(B) transporting oxygen to organs.
+(C) providing nutrients to muscles.
+(D) controlling the movement of the lungs.
+E218
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+In which way is a prokaryotic cell different from a eukaryotic cell?
+(A) A prokaryotic cell is larger.
+(B) A prokaryotic cell has no nucleus.
+(C) A prokaryotic cell can reproduce itself.
+(D) A prokaryotic cell has a cell membrane.
+E252
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+As some organisms die, their remains become buried by mud and are eventually compressed into a type of rock. Which of these is a rock type that forms from this process?
+(A) igneous
+(B) sedimentary
+(C) magma
+(D) metamorphic
+E788
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Which is the correct order of the planets from the Sun?
+(A) Mercury, Venus, Earth, Saturn, Uranus, Jupiter, Mars, Neptune
+(B) Mercury, Earth, Mars, Venus, Saturn, Jupiter, Neptune, Uranus
+(C) Mercury, Venus, Mars, Earth, Jupiter, Uranus, Saturn, Neptune
+(D) Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+E2262
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Increased human populations can lead to the depletion of locally available resources within communities. Compared to other communities, which of these locally available resources is most likely to be depleted in desert communities?
+(A) mineral
+(B) oxygen
+(C) gasoline
+(D) water
+E1605
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Which two body systems interact to produce antibodies that require essential amino acids?
+(A) integumentary and circulatory systems
+(B) digestive and reproductive systems
+(C) endocrine and respiratory systems
+(D) digestive and immune systems
+E2103
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+One end of a metal rod is placed over a flame during an investigation. A thermometer is touching the opposite end of the metal rod. Which best describes what is happening during this investigation?
+(A) Convection carries heat to the thermometer.
+(B) Radiant energy warms the thermometer.
+(C) Mechanical energy from the flame carries heat to the thermometer.
+(D) Heat from the flame is conducted through the metal rod to the thermometer.
+E2348
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Some birds fly south in the fall and return in the spring. This is an example of
+(A) migration
+(B) camouflage
+(C) hibernation
+(D) growth
+E479
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Pond ecosystems depend on the water cycle to ensure the survival of the animals that live in or near the pond. If a drought reduces the water level, which population of animals would be most affected?
+(A) duck
+(B) fish
+(C) mouse
+(D) snake
+E602
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Which of the following will absorb heat energy?
+(A) two sticks being rubbed together
+(B) a piece of wood burning
+(C) steel wool rusting
+(D) ice cubes melting
+E1087
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+How do word processors on computers benefit most students?
+(A) It makes them understand how to write a good story.
+(B) It helps them gather historical information.
+(C) It exposes them to data that is hard to find.
+(D) It allows them to edit papers quickly.
+E440
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+After a star runs out of most of its hydrogen fuel, it becomes hotter and more luminous. What stage does this represent in the life cycle of a star?
+(A) quasar
+(B) protostar
+(C) red giant
+(D) white dwarf
+E2230
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Sodium chloride is formed when sodium and chlorine chemically combine. Which term best describes sodium chloride?
+(A) mixture
+(B) element
+(C) solution
+(D) compound
+E2039
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Stars appear to be blue, white, yellow, and red, even without the aid of a telescope. What causes the different colors of the stars?
+(A) the surface temperature
+(B) the distance from Earth
+(C) the distance from the Sun
+(D) the gases that compose the star
+E1054
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Which of the following is influenced by both genetics and behavior?
+(A) eye color
+(B) hair texture
+(C) blood type
+(D) body weight
+E618
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Which of these best describes the Moon?
+(A) Older than Earth
+(B) Smaller than Earth
+(C) Having the same climate as Earth
+(D) Having the same atmosphere as Earth
+E1736
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Which statement describes the weather when water droplets in clouds become heavy and the temperature is 20°C (68°F)?
+(A) It is clear and breezy.
+(B) It is raining.
+(C) It is snowing.
+(D) It is sunny and clear.
+E361
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Skunks spray a strong-smelling liquid to ___.
+(A) get rid of wastes
+(B) attract prey
+(C) defend themselves
+(D) help nearby plantss grow
+E1221
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+The Theory of Plate Tectonics is based on
+(A) evidence of sea floor spreading.
+(B) topographic mapping of mountain ranges.
+(C) an analysis of soil at the plate boundaries.
+(D) volcanic activity along coastlines.
+E2362
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+If the Earth did not tilt on its axis in relation to the sun, which of the following would also be true?
+(A) There would be no seasons.
+(B) One Earth-year would be 14% longer.
+(C) The Earth would spin at a different rate.
+(D) Temperatures at the Earth's equator would cool.
+E1706
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which action helps reduce global warming?
+(A) developing highways
+(B) driving large vehicles
+(C) using renewable power sources
+(D) using electricity from coal burning power plants
+E179
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which substance is magnetic and conducts heat?
+(A) wood
+(B) plastic
+(C) iron
+(D) paper
+E915
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+In plants, what is responsible for passing traits from one generation to the next?
+(A) chloroplasts
+(B) photosynthesis
+(C) roots
+(D) genes
+E1247
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Which two processes are common to all living things?
+(A) flying and breathing
+(B) migrating and reproducing
+(C) using nutrients and growing
+(D) eliminating waste and hibernating
+E1780
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which of the following do water (H2O), rust (Fe2O3), and salt (NaCl) have in common?
+(A) Water, rust, and salt are atoms.
+(B) Water, rust, and salt are mixtures.
+(C) Water, rust, and salt are elements.
+(D) Water, rust, and salt are compounds.
+E1112
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Radioactive waste from nuclear power plants is sealed in containers and deeply buried in the ground. Sealing and burying waste reduces the chances that water will become contaminated. At which point in the water cycle would radioactive contamination most likely be found?
+(A) rain
+(B) fog
+(C) groundwater
+(D) surface water
+E1770
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+A hiker wants to know if air is warmer in a forest than in the nearby farm field. Which activity would best help the hiker find out which area is warmer?
+(A) reading a book about farm fields
+(B) making a weather prediction for the forests
+(C) measuring the wind speed at both locations
+(D) recording the temperatures at both locations
+E1619
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Which is an inherited characteristic on a horse?
+(A) a long mane
+(B) a steel shoe
+(C) a missing tooth
+(D) a bruised leg
+E1037
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+What chemical symbol represents the element copper?
+(A) C
+(B) Co
+(C) Cp
+(D) Cu
+E254
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+What is the dependent variable in this experiment?
+(A) type of soil used
+(B) amount of water used
+(C) length of sunlight exposure
+(D) growth of the bean plants
+E1178
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D		
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+What is needed to change ice into water?
+(A) air
+(B) energy
+(C) stirring
+(D) chemicals
+E432
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+When manned space exploration began, NASA used the gravity assist concept so that spacecraft could conserve fuel. Which statement explains why the gravity assist concept was useful for spacecraft to successfully travel and return to Earth?
+(A) It gave spacecraft a timed trajectory.
+(B) It ensured spacecraft would return home safely.
+(C) It was helpful in planning spacecraft trajectories.
+(D) It ensured spacecraft would avoid being pulled into the sun.
+E1106
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+What is the liquid layer of Earth that lies beneath the mantle?
+(A) inner core
+(B) outer core
+(C) mesosphere
+(D) asthenosphere
+E729
+	llama 70B response: D
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		D
+	Solution: 			B
+
+When Earth's shadow falls on the Moon, the shadow causes a
+(1) high tide
+(2) low tide
+(3) lunar eclipse
+(4) Moon phase
+E755
+	llama 70B response: 3
+	bart response: 		3
+	gpt 3.5 respose: 	3
+	bing chat response: 3
+	perplexity ai: 		3
+	hugging chat: 		3
+	Solution: 			3
+
+Observation and measurement are important to scientific investigations because
+(A) they are part of the instructions.
+(B) they are used to test a hypothesis.
+(C) they are required to make a hypothesis.
+(D) they keep you safe during an investigation.
+E2340
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Two species of garter snake in the genus Thamnophis originated from a single ancestor. These two species live in the same geographic area, however, one lives in arid land and the other lives in water.Which of the following best identifies the cause of speciation between these two garter snakes?
+(A) mechanical isolation
+(B) behavioral isolation
+(C) habitat isolation
+(D) allopatric isolation
+E507
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which of the following colors of visible light has the longest wavelength?
+(A) red
+(B) blue
+(C) green
+(D) orange
+E296
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+How does sedimentary rock form?
+(A) sediments cool
+(B) sediments melt
+(C) sediments separate
+(D) sediments compress
+E621
+	llama 70B response: D
+	bart response: 		D
+	gpt 3.5 respose: 	D
+	bing chat response: D
+	perplexity ai: 		D
+	hugging chat: 		D
+	Solution: 			D
+
+Trevor turns on a lamp. When the lamp is on, electrical energy changes into which other form of energy?
+(A) chemical
+(B) light
+(C) mechanical
+(D) potential
+E1193
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+El Niño is a term that refers to the oceanic phenomenon in which the surface water temperatures increase. The increase in water temperature usually occurs in the tropical Pacific Ocean. Which will most likely occur as a result of this phenomenon to cause environmental changes?
+(A) melting of the polar ice caps
+(B) varied atmospheric conditions
+(C) an increase in volcanic eruptions
+(D) an increase in the length of summers
+E229
+	llama 70B response: B
+	bart response: 		B
+	gpt 3.5 respose: 	B
+	bing chat response: B
+	perplexity ai: 		B
+	hugging chat: 		B
+	Solution: 			B
+
+Many natural resources are found in Maryland and the surrounding area. Some of these natural resources are renewable and some are nonrenewable. People use both kinds of resources in daily activities. Using natural resources often produces waste products. Which of these natural resources found in Maryland is nonrenewable?
+(A) coal
+(B) soil
+(C) water
+(D) wood
+E1752
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Heating and cooling water change the state of matter of water. What happens when a block of ice is heated to 10° Celsius?
+(A) It melts to form liquid water.
+(B) It condenses to form liquid water.
+(C) It freezes to become heavier ice.
+(D) It evaporates to become a vapor (gas).
+E1285
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Which of these tools is most helpful to a scientist observing very small bacteria?
+(A) ruler
+(B) telescope
+(C) microscope
+(D) meter stick
+E857
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+Which is not a characteristic common to organisms?
+(A) requires energy
+(B) reproduction
+(C) rigidity
+(D) presence of DNA
+E1518
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			C
+
+A small aluminum cube is dropped into a beaker of water to determine the buoyancy. Which of these is not necessary in determining the buoyant force acting on the cube?
+(A) density of water
+(B) displaced volume
+(C) gravitational pull on Earth
+(D) density of the aluminum cube
+E2024
+	llama 70B response: C
+	bart response: 		C
+	gpt 3.5 respose: 	C
+	bing chat response: C
+	perplexity ai: 		C
+	hugging chat: 		C
+	Solution: 			D
+
+A student sees many plants around a pond. The student can determine which plants are nonvascular by
+(A) observing if they lack true stems, roots, or leaves
+(B) examining the plants for spores
+(C) counting the number of leaves on each stalk
+(D) noticing if the plants are near rocks
+E44
+	llama 70B response: A
+	bart response: 		A
+	gpt 3.5 respose: 	A
+	bing chat response: A
+	perplexity ai: 		A
+	hugging chat: 		A
+	Solution: 			A
+
+Llama system prombtt: You are a helpful assistant.
+
+Conclusion:
+	llama 70B: 		77 Correct, 3 False
+	bart: 			77 Correct, 3 False
+	gpt 3.5: 		77 Correct, 3 False
+	bing chat: 		77 Correct, 3 False
+	perplexity ai:	76 Correct, 4 False
+	hugging chat:	78 Correct, 2 False

@@ -1,0 +1,20 @@
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+scikit-learn
+keras
+tqdm
+numpy
+pandas
+jupyterlab
+wandb
+matplotlib
+kaggle
+optuna
+pymysql
+optuna
+transformers
+einops
+ipywidgets
+plotly
+kaleido
