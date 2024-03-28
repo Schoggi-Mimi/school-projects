@@ -1,4 +1,4 @@
-# Ribonucleic Acid (RNA) Structure Prediction
+# Ribonucleic Acid (RNA) Structure Prediction [Link](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding)
 - Team Name: HSLU StableConfusion
 
 ## Introduction
@@ -21,7 +21,7 @@ The project is structured as follows:
 
 ## Score Comparison
 
-The following table compares the best Kaggle submissions for each model used in our project. It includes both public and private scores, providing insights into the model performance over time.
+The following table compares the Kaggle submissions of our model with those of competitors. It includes both public and private scores for the mean absolute error.
 
 **Leaderboard Scores (sorted by Private Score)**
 | Team              | Rank | Public Score | Private Score |
@@ -29,6 +29,4 @@ The following table compares the best Kaggle submissions for each model used in 
 | vigg              | 1    | 0.13499      | 0.13960       |
 | Hoyeol Sohn       | 2    | 0.13544      | 0.14015       |
 | ap eh ka          | 3    | 0.13503      | 0.14037       |
-| HSLU StableConfusion | 615 | 0.19483      | 0.27650       |
-
-[Source: Kaggle Competition Leaderboard](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding)
+| **HSLU StableConfusion** | 615 | 0.19483      | 0.27650       |
