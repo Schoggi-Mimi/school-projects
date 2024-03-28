@@ -26,7 +26,7 @@ This project, conducted as part of the HSLU NLP course, aims to develop solution
 
 ## Results
 
-![Histogram Plot](1_Documentation/Visualisations/Accuracy_on_ARC_Easy_Test_Set.png.png)
+![Histogram Plot](1_Documentation/Visualisations/Accuracy_on_ARC_Easy_Test_Set.png)
 
 - **Benchmark**: Initial experiment with answering all test questions with the most common answer yielded low accuracy.
 - **Transformer Models**: Performances of transformer models were compared with the ARC leaderboard scores and LLMs. 
