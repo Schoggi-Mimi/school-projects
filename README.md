@@ -1,2 +1,5 @@
-# school-projects
-This repository hosts a collection of my academic assignments, projects, and coursework. From programming assignments to research papers, you'll find a diverse range of projects showcasing my skills and knowledge gained throughout my academic journey. Explore, learn, and feel free to reach out for collaboration or feedback!
+# School Projects
+
+This repository contains a collection of assignments done during my BSc. in Artificial Intelligence and Machine Learning. Some of the projects were completed individually, while others were group projects. All assignments received high grades. 
+
+⚠️ You may explore the project folders to understand the topics covered and the methodologies employed but please note that these projects are not actively maintained or updated. 

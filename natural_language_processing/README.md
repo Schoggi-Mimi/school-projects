@@ -1,4 +1,5 @@
 # NLP Project: AI2 Reasoning Challenge (ARC)
+- Team Name: HSLU StableConfusion
 
 ## Description
 

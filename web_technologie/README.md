@@ -1,6 +1,5 @@
-⚠️ **Important Notice:** This project is for educational purposes only and is not actively maintained. It should not be used for private or production purposes.
-
 # RSA Encryption Website
+- Individual Project
 
 ## Introduction
 
